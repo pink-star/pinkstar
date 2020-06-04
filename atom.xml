@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://pink-star.github.io/pinkstar/</id>
-    <title>Gridea</title>
-    <updated>2020-06-04T04:53:50.506Z</updated>
+    <title>pinkstar</title>
+    <updated>2020-06-04T04:55:51.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://pink-star.github.io/pinkstar/"/>
     <link rel="self" href="https://https://pink-star.github.io/pinkstar/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>人类的悲欢并不相通 我只觉得他们吵闹</subtitle>
     <logo>https://https://pink-star.github.io/pinkstar/images/avatar.png</logo>
     <icon>https://https://pink-star.github.io/pinkstar/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, pinkstar</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://pink-star.github.io/pinkstar/post/hello-gridea/</id>
